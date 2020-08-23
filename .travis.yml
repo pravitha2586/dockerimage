@@ -10,6 +10,6 @@ script:
 notifications:
  email:
    recipients:
-     - bvijaycom@gmail.com
+     - pravitha.dolly@gmail.com
    on_success: always
    on_failure: always
